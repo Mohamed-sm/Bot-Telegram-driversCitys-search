@@ -1,5 +1,7 @@
 # Telegram Bot for Driver Search
 
+![Bot Interface](https://via.placeholder.com/800x400/007ACC/FFFFFF?text=Telegram+Bot+Interface)
+
 An intelligent Telegram bot for searching drivers based on various criteria (city, pickup area, destination, etc.).
 
 ## 🚀 Features
@@ -110,6 +112,8 @@ The Excel file must contain the following columns:
 | delivery_classification | Delivery classification | Universities, Schools |
 
 ## 📱 Usage Flow
+
+![User Flow](https://via.placeholder.com/600x300/28A745/FFFFFF?text=User+Flow+Diagram)
 
 1. **Start**: User types `/start`
 2. **Main menu**: Choose between search, registration, or exit
