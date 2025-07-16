@@ -1,0 +1,32 @@
+# Scripts shell - ne pas traiter comme exécutables
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Fichiers Python - texte simple
+*.py text eol=lf
+
+# Fichiers de configuration
+*.txt text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# Fichiers binaires
+*.db binary
+*.xlsx binary
+*.xls binary
+*.sqlite binary
+*.sqlite3 binary
+
+# Environnements virtuels - ignorer
+venv/ -text
+.venv/ -text
+env/ -text
+ENV/ -text
+
+# Cache et fichiers temporaires
+__pycache__/ -text
+*.pyc binary
+*.pyo binary
+*.pyd binary 

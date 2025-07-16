@@ -1,0 +1,7 @@
+# Configuration du Bot Telegram
+# Remplacez YOUR_BOT_TOKEN par le token de votre bot obtenu auprès de @BotFather
+BOT_TOKEN=YOUR_BOT_TOKEN
+
+# Configuration de la base de données (optionnel)
+DATABASE_PATH=drivers.db
+EXCEL_FILE_PATH=drivers_data.xlsx 
