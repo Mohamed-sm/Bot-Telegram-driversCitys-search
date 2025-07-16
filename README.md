@@ -1,17 +1,21 @@
-# Telegram Bot for Driver Search
+# 🤖 Telegram Bot for Driver Search
 
-![Bot Interface](https://via.placeholder.com/800x400/007ACC/FFFFFF?text=Telegram+Bot+Interface)
+[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/your_bot_username)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
+[![SQLite](https://img.shields.io/badge/SQLite-Database-green?style=for-the-badge&logo=sqlite)](https://sqlite.org)
 
 An intelligent Telegram bot for searching drivers based on various criteria (city, pickup area, destination, etc.).
 
 ## 🚀 Features
 
-- **Driver Search**: Search based on city, pickup area, and destination
-- **Arabic Interface**: Complete Arabic user interface
-- **SQLite Database**: Local storage of driver data
-- **Excel Import**: Load data from Excel file
-- **Logging**: Track user access
-- **Driver Registration**: Redirect to WhatsApp for registration
+| Feature | Description | Status |
+|---------|-------------|--------|
+| 🔍 **Driver Search** | Search based on city, pickup area, and destination | ✅ |
+| 🌐 **Arabic Interface** | Complete Arabic user interface | ✅ |
+| 💾 **SQLite Database** | Local storage of driver data | ✅ |
+| 📊 **Excel Import** | Load data from Excel file | ✅ |
+| 📝 **Logging** | Track user access | ✅ |
+| 📱 **Driver Registration** | Redirect to WhatsApp for registration | ✅ |
 
 ## 📋 Prerequisites
 
@@ -113,7 +117,7 @@ The Excel file must contain the following columns:
 
 ## 📱 Usage Flow
 
-![User Flow](https://via.placeholder.com/600x300/28A745/FFFFFF?text=User+Flow+Diagram)
+[![User Flow](https://img.shields.io/badge/User-Flow-Green?style=for-the-badge&logo=flowchart)](https://github.com/your-username/your-repo)
 
 1. **Start**: User types `/start`
 2. **Main menu**: Choose between search, registration, or exit
